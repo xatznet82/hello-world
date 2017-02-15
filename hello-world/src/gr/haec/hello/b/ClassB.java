@@ -8,7 +8,7 @@ public class ClassB extends ClassA{
 		
 		System.out.println(i1);
 		   // System.out.println(i2);
-		System.out.println(i3);
+		     System.out.println(i3);
            //check
 	}
 	
